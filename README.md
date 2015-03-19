@@ -5,7 +5,10 @@ Thought it would be fun to make a converter from text to binary
 
 ex. hello becomes 0110100001100101011011000110110001101111 
 
-## Cloning 
+## Cloning
+    $git clone https://github.com/mattchupp/Binary-Converter.git
+
+
 
 
 
